@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+body {
+    font-family: Open Sans;
+    background-color: darkgrey;
+    color: darkslategray;
+}
+
+h1 {
+    color: white;
+}
+
+fieldset {
+    width: 30%;
+}
+
+label {
+    color: white;
+    font-size: 14;
+    display: block;
+    padding: 8;
+}
